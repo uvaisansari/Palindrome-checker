@@ -90,9 +90,10 @@ input[type="text"]{
 }
 
 
+
 @media screen and (max-width: 479px) {
     h1{
-        font-size: 1rem;
+        font-size: 1.2rem;
         margin-top: 10px;
     }
     .inputs{
@@ -114,14 +115,15 @@ input[type="text"]{
     .inputs> .result{
         text-align: center;
         margin-top: 10px;
-        font-size: 0.9rem;
+        font-size: 1.1rem;
     }
     .definition{
         margin-top: 20px;
         width: 350px;
-        height: 100px;
+        height: 160px;
         border-radius: 20px;
-        padding: 20px;
-        font-size: 0.9rem;
+        padding: 10px;
+        font-size: 1.2rem;
     }
 }
+
